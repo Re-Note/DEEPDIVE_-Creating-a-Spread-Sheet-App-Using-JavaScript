@@ -10,6 +10,8 @@
 
 ### [구현 결과 이미지]
 
+![사진](https://github.com/user-attachments/assets/69285943-dc88-4217-a532-8574e3f42b2d)
+
 ### [구현 결과 사이트 주소]
 
 https://re-note.github.io/DEEPDIVE_Creating-a-Spread-Sheet-App-Using-JavaScript/
